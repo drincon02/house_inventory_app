@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Navbar from "./ui/navbar";
 
-export const meta: Metadata = {
+export const metadata: Metadata = {
   title: "House Inventory App",
   description: "An app to keep track of your house inventory",
 };
